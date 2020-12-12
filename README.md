@@ -1,6 +1,6 @@
 ![jiphy](https://raw.github.com/timothycrosley/jiphy/master/logo.png)
-=====
 
+=====
 [![PyPI version](https://badge.fury.io/py/jiphy.png)](http://badge.fury.io/py/jiphy)
 [![Build Status](https://travis-ci.org/timothycrosley/jiphy.png?branch=master)](https://travis-ci.org/timothycrosley/jiphy)
 [![Coverage Status](https://coveralls.io/repos/timothycrosley/jiphy/badge.svg?branch=develop&service=github)](https://coveralls.io/github/timothycrosley/jiphy?branch=develop)
@@ -8,7 +8,7 @@
 [![Join the chat at https://gitter.im/timothycrosley/jiphy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/timothycrosley/jiphy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Write your client side code in a Jiphy! Jiphy is a two-way Python->JavaScript converter. It's not meant to create
-runnable Python code from complex JavaScript files, or runnable JavaScript from complex Python projects. Instead,
+executable Python code from complex JavaScript files, or runnable JavaScript from complex Python projects. Instead,
 Jiphy enables Python programmers to more easily write JavaScript code by allowing them to use more familiar syntax,
 and even JavaScript developers to more easily write Python code.
 
